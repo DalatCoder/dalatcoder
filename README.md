@@ -7,4 +7,6 @@
   </samp><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=dalatcoder&show_icons=true"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalatcoder&layout=compact&theme=vue">
+  <quote>Code - Code nữa - Code mãi</quote>
+  <img src = "https://media.giphy.com/media/RTIGQQZwkGy9q/giphy.gif">
 </p>
