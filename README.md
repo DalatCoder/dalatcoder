@@ -7,4 +7,6 @@
   </samp>
 </p>
 <img align="left" alt="Github Stats" src="https://thanh-github-stats.vercel.app/api?username=dalatcoder&hide=stars&count_private=true&show_icons=true&hide_border=true" />
+<img align="right" alt="Most language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalatcoder&layout=compact&show_icons=true&hide_border=true" />
+
 
