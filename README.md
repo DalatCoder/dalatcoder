@@ -5,6 +5,6 @@
     <br> Hiện đang là sinh viên lớp CTK42 - khoa CNTT - trường Đại học Đà Lạt
     <br> Mình yêu thích khám phá các nền tảng công nghệ mới, đặc biệt trong lĩnh vực phát triển ứng dụng web :sparkles:<br>
   </samp><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dalatcoder&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=dalatcoder&show_icons=true"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalatcoder&layout=compact&theme=vue">
 </p>
