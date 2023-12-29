@@ -9,6 +9,6 @@ Thông tin cơ bản:
 
 Thông tin liên hệ:
   - Telegram: [https://t.me/hieungx](https://t.me/hieungx)
-  - Facebook: [https://fb.com/dalatcoder](https://fb.com/dalatcoder)
+  - Facebook: [https://www.facebook.com/hieu.ngxtr](https://www.facebook.com/hieu.ngxtr)
 
 
