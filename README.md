@@ -9,8 +9,8 @@
     - GPA: 3.85/4 - Chuyên ngành Kĩ thuật phần mềm
     
     Thông tin liên hệ:
-      - Telegram: https://t.me/hieungx
-      - Facebook: https://fb.com/dalatcoder
+      - Telegram: [https://t.me/hieungx](https://t.me/hieungx)
+      - Facebook: [https://fb.com/dalatcoder](https://fb.com/dalatcoder)
     
   </samp>
 </p>
