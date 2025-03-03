@@ -8,6 +8,7 @@
 
 Liên hệ với mình tại:
   - Email: hieu.ngxtr@gmail.com
+  - Youtube: [https://youtube.com/@dalatcoder](https://youtube.com/@dalatcoder)
   - Telegram: [https://t.me/dalatcoder](https://t.me/dalatcoder)
   - Facebook: [https://www.facebook.com/dalatcoder](https://www.facebook.com/dalatcoder)
   - Blog: [https://dalatcoder.github.io](https://dalatcoder.github.io)
