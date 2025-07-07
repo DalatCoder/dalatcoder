@@ -8,7 +8,7 @@
 
 Liên hệ với mình tại:
   - Website: [https://nguyentronghieu.io.vn/](https://nguyentronghieu.io.vn)
-  - Email: hieu.ngxtr@gmail.com
+  - Email: nguyentronghieu.dlc@gmail.com
   - Youtube: [https://youtube.com/@dalatcoder](https://youtube.com/@dalatcoder)
   - Facebook: [https://www.facebook.com/dalatcoder](https://www.facebook.com/dalatcoder)
 
